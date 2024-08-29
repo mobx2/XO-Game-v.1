@@ -1,1 +1,1 @@
-# XO-Game-v.1
+# XO-Game
